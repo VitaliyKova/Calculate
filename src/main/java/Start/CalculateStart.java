@@ -5,5 +5,5 @@ import Calculator.ComplexNumber;
 
 public interface CalculateStart {
     void start();
-    ComplexNumber parser(String str);
+
 }
